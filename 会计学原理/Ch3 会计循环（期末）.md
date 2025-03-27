@@ -20,9 +20,7 @@ Expense recognition
 
 
 
-Most expenses are recorded in the same period as the revenues they help to generate. Other expenses indirectly related to 
-
-producing revenues are recorded in the period they occur. **直接费用与收入进行直接配比来确定本期损益**；其他费用则通过判断而采用适当合理的标准
+Most expenses are recorded in the same period as the revenues they help to generate. Other expenses indirectly related to producing revenues are recorded in the period they occur. **直接费用与收入进行直接配比来确定本期损益**；其他费用则通过判断而采用适当合理的标准
 
 
 
@@ -131,7 +129,7 @@ The timing differences that create the need for adjusting entries can be grouped
 
 好的，直接翻译这段文字：
 
-所有出现在资产负债表中的账户，包括留存收益在内，都是永久性账户。这意味着我们要将它们的余额从一个期间结转到下一个期间。例如，如果现金（一项资产）或应付账款（一项负债）在年末的余额是 \$1,000，那么这也将是下一年年初的余额。然而，临时性账户——收入、费用和股利账户则不是这样。对于这些账户，我们在年末将每个账户的余额转入一个账户——留存收益，然后所有收入、费用和股利账户在下一年年初都从 \$0 余额开始。我们通过结账分录来完成从临时账户到留存收益的余额转移。
+所有出现在资产负债表中的账户，包括留存收益在内，都是永久性账户。这意味着我们要将它们的余额从一个期间结转到下一个期间。例如，如果现金（一项资产）或应付账款（一项负债）在年末的余额是 \$1,000，那么这也将是下一年年初的余额。然而，临时性账户——收入、费用和股利账户 则不是这样。对于这些账户，我们在年末将每个账户的余额转入一个账户——留存收益，然后所有收入、费用和股利账户在下一年年初都从 \$0 余额开始。我们通过结账分录来完成从临时账户到留存收益的余额转移。
 
 结账分录(Closing Entries)：结账分录是将所有临时账户（revenues, expenses, and dividends）的余额转入留存收益账户的过程。也就是把留存收益的三个分项转入到留存收益账户。留存收益账户是永久性账户
 
