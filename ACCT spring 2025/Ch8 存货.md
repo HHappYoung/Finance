@@ -1,3 +1,29 @@
+# PART A Recording and Measuring Inventory
+
+## Types of Inventory
+
+
+
+
+
+## Types of Inventory Systems
+
+
+
+## What Is Included in Inventory?
+
+
+
+## Inventory Cost Flow Assumptions
+
+
+
+### LIFO Reserves and LIFO Liquidation
+
+
+
+
+
 # Part B Methods of Simplifying LIFO
 
 
